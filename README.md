@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about control and automation engineering.
 - 💞️ I'm trying to collaborate in science, technology and quality information development, for everyone.
 - 📫 w.santos.s404@gmail.com
-- 😄 Pronouns: Sr or Mr.
+- 😄 Pronouns: Mr.
 - ⚡ Fun fact: I'm Brazilian.
 
 <!---
