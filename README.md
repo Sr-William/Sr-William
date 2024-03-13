@@ -4,7 +4,7 @@
 - 💞️ I'm trying to collaborate in science, technology and quality information development, for everyone.
 - 📫 w.santos.s404@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I'm Brazilian.
+- ⚡ Fun fact: I am Brazilian.
 
 <!---
 Sr-William/Sr-William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
